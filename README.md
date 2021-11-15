@@ -1,1 +1,1 @@
-# Alcohol-connsumption-of-students
+# Alcohol-consumption-of-students
